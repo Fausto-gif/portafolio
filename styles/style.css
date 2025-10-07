@@ -37,7 +37,7 @@ body {
 
 .header__menu__link{
 font-family: var(--fuente-montserrat);
-font-size: 1.5rem;
+font-size: 2rem;
 font: weight 400px;
 color:var(--color-terciario) ;
 text-decoration: none;
@@ -60,6 +60,10 @@ text-decoration: none;
     gap: 40px;
 }
 
+.presentacion__contenido__texto {
+    font-size: 1.5rem;
+    font-family:var(--fuente-montserrat) ;}
+
 .presentacion_contenido_titulo {
     font-size: 2.25rem;
     font-family: var(--fuente-krona);
@@ -68,7 +72,7 @@ text-decoration: none;
     color:var(--color-terciario);
 }
 .font_parrafo {
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: var(--fuente-montserrat);
 }
 
