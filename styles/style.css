@@ -43,7 +43,9 @@ color:var(--color-terciario) ;
 text-decoration: none;
 }
 
-
+img {
+    border-radius:10%;
+}
 
 .presentacion {
     display:flex;
